@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">Explorador Liquid</string>
+    <string name="app_name">Explorador Centauri</string>
     <string name="advancedsettings">Avanzado</string>
     <string name="appmanager">Gestor de aplicaciones</string>
     <string name="apps">" Apps"</string>
